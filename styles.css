@@ -14,11 +14,11 @@ table{
     border:1px solid #ddd;
     border-collapse: collapse;
     /* width: 900px; */
-    margin-left:700px;
+/*     margin-left:700px; */
 }
 
 table{
-    margin:110px 110px 110px 170px;
+    margin:110px auto;
     height: 400px;
     box-shadow: 10px 10px 30px rgb(200, 197, 197);
     border-bottom:2px solid red;
